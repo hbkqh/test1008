@@ -1,2 +1,5 @@
 today.
 good.
+
+tomorrow.
+bad.
